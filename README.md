@@ -4,5 +4,5 @@
 ```shell
 # 当前版本
 $ lotus -v
-lotus version 1.2.2+6star+git.46de67120.1609332270
+lotus version 1.4.0+6star+git.a7f5d9070.1628174480
 ```
